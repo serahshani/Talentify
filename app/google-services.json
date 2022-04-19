@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214048651978",
+    "project_id": "talentify-10d48",
+    "storage_bucket": "talentify-10d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214048651978:android:c3313fd2de62a539845233",
+        "android_client_info": {
+          "package_name": "com.serah.talentify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214048651978-jlqrie39kl5mjl5tq4h8l1arv56slf04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGsD4KU-Nh9onytkXI5bPNGJFMaTm3Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214048651978-jlqrie39kl5mjl5tq4h8l1arv56slf04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

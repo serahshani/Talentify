@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation" type="id" />
+    <item name="editname" type="id" />
+    <item name="updatepass" type="id" />
+</resources>
